@@ -239,6 +239,7 @@
 	   forwarding the triggering query to the parent's delegated nameservers
 	   should be discarded after validation, and this query should be
 	   forwarded again to the child's apex nameservers.
+	   TODO: some reasoning needed.
 	</li>
       </ul>
     </section>
